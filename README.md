@@ -19,6 +19,11 @@ Includes support for QR code generation and adjustable volume/speed settings.
 
 - Java 8 or above
 - ZXing library (core and javase jars)
+### Team Members
+- **Varshitha Thilak Kumar** – varshitha.9a2019@gmail.com
+- **Siri Sanjana S** – sirisanjana.singareddy@gmail.com
+- **Shreya Arun** – shreyaarun005@gmail.com 
+- **Anagha Menon**
 
 ### Compilation
 
